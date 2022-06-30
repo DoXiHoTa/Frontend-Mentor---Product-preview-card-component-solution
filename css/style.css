@@ -104,7 +104,7 @@ body {
 .perfume__img {
   width: 305px;
   height: 457.5px;
-  background: url("../../img/image-product-desktop.jpg") center/cover no-repeat;
+  background: url("../img/image-product-desktop.jpg") center/cover no-repeat;
 }
 .perfume__text {
   padding: 32px 30px;
@@ -181,7 +181,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background: url("../../img/icon-cart.svg") center no-repeat;
+  background: url("../img/icon-cart.svg") center no-repeat;
 }
 @media (max-width: 767.98px) {
   .perfume__body {
@@ -195,7 +195,7 @@ body {
     max-width: 370px;
     height: 240px;
     max-height: 240px;
-    background: url("../../img/image-product-mobile.jpg") center/cover no-repeat;
+    background: url("../img/image-product-mobile.jpg") center/cover no-repeat;
   }
   .perfume__text {
     padding: 32px 30px;
